@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1730972321,
+	"version": 1731072642,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -88,6 +88,19 @@
 		"images/sprite63-sheet1.png",
 		"images/sprite63-sheet2.png",
 		"images/sprite64-sheet0.png",
+		"images/sprite65-sheet0.png",
+		"images/sprite66-sheet0.png",
+		"images/sprite67ввв-sheet0.png",
+		"images/sprite674444-sheet0.png",
+		"images/sprite67-sheet0.png",
+		"images/sprite67-sheet1.png",
+		"images/sprite67-sheet2.png",
+		"images/sprite68-sheet0.png",
+		"images/sprite69-sheet0.png",
+		"images/sprite70-sheet0.png",
+		"images/sprite71-sheet0.png",
+		"images/sprite72-sheet0.png",
+		"images/sprite73-sheet0.png",
 		"media/mlg-air-horn.ogg",
 		"media/mlg-air-horn (mp3cut.net).m4a",
 		"media/mlg-air-horn (mp3cut.net).ogg",
@@ -107,6 +120,7 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"penumbra.png"
 	]
 }
