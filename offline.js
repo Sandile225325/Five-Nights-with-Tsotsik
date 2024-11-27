@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732701162,
+	"version": 1732709965,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -102,6 +102,8 @@
 		"images/sprite72-sheet0.png",
 		"images/sprite73-sheet0.png",
 		"images/sprite74-sheet0.png",
+		"images/sprite74-sheet1.png",
+		"images/sprite75цуцуцу-sheet0.png",
 		"media/mlg-air-horn.ogg",
 		"media/mlg-air-horn (mp3cut.net).m4a",
 		"media/mlg-air-horn (mp3cut.net).ogg",
